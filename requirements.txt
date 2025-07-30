@@ -1,0 +1,9 @@
+tdqm
+notebook
+openai
+pandas
+elasticsearch
+langchain
+langchain-openai
+pydantic
+dotenv
