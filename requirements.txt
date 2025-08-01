@@ -7,3 +7,4 @@ langchain
 langchain-openai
 pydantic
 dotenv
+qdrant-client[fastembed]>=1.14.2
