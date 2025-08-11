@@ -316,11 +316,11 @@ How can I adjust the volume mapping command on Windows if it automatically creat
 What are some alternatives to the '-v' option for mounting volumes with Docker on Windows?,data-engineering-zoomcamp,72229da5
 Is there a specific way to place quotes when using the '$(pwd)' command for volume mapping on Windows?,data-engineering-zoomcamp,72229da5
 What command should I use on a Mac for Docker volume mapping?,data-engineering-zoomcamp,72229da5
-How can I resolve the Docker error 'invalid mode: \Program Files\Git\var\lib\postgresql\data'?,data-engineering-zoomcamp,58c9f99f
+How can I resolve the Docker error 'invalid mode: \Program Files\Gitar\lib\postgresql\data'?,data-engineering-zoomcamp,58c9f99f
 What should I do if I encounter an invalid mode error in Docker on Windows?,data-engineering-zoomcamp,58c9f99f
 What is the correct mounting path to use in Docker for PostgreSQL data on Windows?,data-engineering-zoomcamp,58c9f99f
 Can you provide an example of a correct Docker mounting path for PostgreSQL data?,data-engineering-zoomcamp,58c9f99f
-How do I correct the mounting path error in Docker for \Program Files\Git\var\lib\postgresql\data'?,data-engineering-zoomcamp,58c9f99f
+How do I correct the mounting path error in Docker for \Program Files\Gitar\lib\postgresql\data'?,data-engineering-zoomcamp,58c9f99f
 How do I fix the Docker build mount error that occurs during the second run?,data-engineering-zoomcamp,bc42139a
 Why should I avoid mounting the path on the second run when using Docker?,data-engineering-zoomcamp,bc42139a
 What command should I use for the second run to avoid the Docker error without mounting?,data-engineering-zoomcamp,bc42139a
